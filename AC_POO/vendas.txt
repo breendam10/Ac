@@ -1,0 +1,4 @@
+2024-06-05,Brenda,{Código: 2
+Descrição: chocolate
+Preço: R$ 5.99
+Quantidade em estoque: 8=2}
